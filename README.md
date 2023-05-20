@@ -1,2 +1,37 @@
 # EscalateGuard
- EscalateGuard is a powerful Python script developed to safeguard your system against potential privilege escalation vulnerabilities. This tool automates a comprehensive range of checks to identify security weaknesses and protect your system's integrity.  Key Features:  Quick identification of target user presence in sudoers file, indicating potential privilege escalation risks. Detection of target user's membership in the sudo group, highlighting vulnerabilities. Display of the system's sudo version for analysis and evaluation. Comprehensive scanning for known kernel exploits based on the system's kernel version. Verification of critical file permissions, including /etc/passwd, /etc/shadow, and /etc/sudoers. Detection of potential abuse of sudo through the logfile directive. Scanning for setuid/setgid files that could lead to privilege escalation. Monitoring and reporting of readable log files, ensuring system transparency and security. Verification of service permissions to identify incorrect access rights. Easy-to-use command-line interface for quick and efficient security assessments.
+Introducing EscalateGuard: Your Shield Against Privilege Escalation!
+
+EscalateGuard, a robust Python script, empowers you to fortify your system's defenses against potential privilege escalation vulnerabilities. With its arsenal of automated checks, EscalateGuard acts as your vigilant guardian, tirelessly scanning for security weaknesses and preserving your system's integrity.
+
+Key Features That Make EscalateGuard Shine:
+
+🛡️ Swiftly Unmask Risks: Identify potential privilege escalation threats by pinpointing target users present in the sudoers file, providing invaluable insights.
+
+🔒 Stay One Step Ahead: Detect if a target user is part of the esteemed sudo group, a telltale sign of possible elevated privileges.
+
+🔍 Illuminate the Shadows: Shed light on your system's sudo version, allowing comprehensive analysis and evaluation for any known vulnerabilities.
+
+🚀 Outpace Kernel Exploits: Conduct comprehensive scans for notorious kernel exploits, staying ahead of potential security breaches.
+
+🔐 Fortify File Permissions: Verify the integrity of vital files like /etc/passwd, /etc/shadow, and /etc/sudoers by ensuring correct and secure access restrictions.
+
+🚨 Safeguard Against Misuse: Identify potential abuse of sudo by hunting down the logfile directive, effectively thwarting unauthorized access attempts.
+
+🔑 Lock Down Setuid/Setgid Files: Spot files with setuid/setgid permissions that may serve as gateways for unauthorized privilege escalation.
+
+📜 Monitor Log Files: Keep a watchful eye on readable log files, safeguarding sensitive information and maintaining system transparency.
+
+🔒 Restrict Service Access: Validate service permissions, ensuring correct and secure access rights for services like Apache, Nginx, and MySQL.
+
+⚡ Streamlined Experience: Enjoy the benefits of an intuitive command-line interface, enabling quick and efficient security assessments.
+   
+   ---How to use---
+   To use the script:
+   git clone https://github.com/wh1t3r0s3lmao/EscalateGuard
+   cd EscalateGuard
+   python EscalateGuard.py
+   
+   
+   
+   Enjoy <3
+~P.S, It's just an alpha version of my script! If there's any issues or bugs i'd like to hear it from you!
