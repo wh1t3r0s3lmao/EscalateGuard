@@ -1,5 +1,5 @@
 # EscalateGuard
-Introducing EscalateGuard: Your Shield Against Privilege Escalation!
+Introducing EscalateGuard: Your Shield Against Privilege Escalation in Linux OS!
 
 EscalateGuard, a robust Python script, empowers you to fortify your system's defenses against potential privilege escalation vulnerabilities. With its arsenal of automated checks, EscalateGuard acts as your vigilant guardian, tirelessly scanning for security weaknesses and preserving your system's integrity.
 
