@@ -26,12 +26,8 @@ Key Features That Make EscalateGuard Shine:
 ⚡ Streamlined Experience: Enjoy the benefits of an intuitive command-line interface, enabling quick and efficient security assessments.
    
    ---How to use---
-   To use the script:
-   git clone https://github.com/wh1t3r0s3lmao/EscalateGuard
-   cd EscalateGuard
-   python EscalateGuard.py
+   To use the script: git clone https://github.com/wh1t3r0s3lmao/EscalateGuard & cd EscalateGuard & python EscalateGuard.py
    
-   
-   
+  
    Enjoy <3
 ~P.S, It's just an alpha version of my script! If there's any issues or bugs i'd like to hear it from you!
